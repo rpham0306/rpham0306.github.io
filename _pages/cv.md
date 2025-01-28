@@ -7,19 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>View PDF</title>
-</head>
-<body style="margin: 0; display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f9f9f9;">
-  <embed src="https://github.com/rpham0306/rpham0306.github.io/blob/master/images/resume.12.27.24.pdf" type="application/pdf" width="80%" height="80%">
-</body>
-</html>
-
-
 {% include base_path %}
 
 Education
