@@ -21,7 +21,7 @@ repository               : "rpham0306/rpham0306.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "png2pdf.pdf"
+  avatar           : "https://github.com/rpham0306/rpham0306.github.io/blob/master/images/png2pdf.pdf"
   name             : "Ryan Pham"
   pronouns         : # example: "she/her"  
   bio              : "Student at the University of Houston pursuing a Bachelors Degree in Computer Science."
