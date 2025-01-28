@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-MXPHL77KQ7"></script>
@@ -8,15 +16,6 @@
 
   gtag('config', 'G-MXPHL77KQ7');
 </script>
-
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
 
 {% include base_path %}
 
