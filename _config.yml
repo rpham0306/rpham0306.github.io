@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Ryan Pham"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Student at the University of Houston pursuing a Bachelors Degree in Computer Science."
+  location         : "Houston"
+  employer         : "University of Houston"
   uri              : # URL
   email            : "ryanlampham1@gmail.com" 
 
