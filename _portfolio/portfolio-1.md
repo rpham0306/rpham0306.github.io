@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "University of Houston Student Form"
+excerpt: "I collaborated with a team fellow students to develop a dynamic web portal that allows students to access and submit various university forms, such as graduate petitions, transfer requests, and withdrawal forms. The platform features real-time form status tracking and built-in approval functionality for departmental administrators.<br/><img src='/images/uploaded/software_design_student_form.png'>"
 collection: portfolio
+share : false
+related : false
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The link to the full project is on [GitHub](https://github.com/binhnguyen63/SoftwareDesign-Project).
+
+Thank you to Ore Oyede, Fernando Mancilla, and Binh Nguyen!
