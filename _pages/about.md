@@ -13,7 +13,9 @@ Recently, I collaborated with a team to develop a website that simulates the Uni
 
 Currently, I am looking for a potential internship or co-op opportunities for Summer and Fall 2025 where I can apply my technical skills in a team-oriented environment as a developer.
 
-Outside of technology, I enjoy gaming, expanding my palate through new cuisines, and running. I’m a proud Yelp Elite member who loves discovering hidden food gems around Houston. I am also currently training for the Houston Chevron Marathon. Lately, I have been playing Marvel Rivals!
+Outside of technology, I enjoy gaming, expanding my palate through new cuisines, and running. I’m a proud Yelp Elite member who loves discovering hidden food gems around Houston. I am also currently training for the Houston Chevron Marathon, and lately, I have been playing Marvel Rivals!
+
+I also enjoy networking with others to gain new experiences and solve challenges through teamwork and innovation. One of my personal goals is to introduce someone new everyday - I believe that every conversation holds growth and opportunity. I'm always excited to share, connect, and learn from others.
 
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/ryan-pham0306)! I'm always open to conversations and opportunities.
 
