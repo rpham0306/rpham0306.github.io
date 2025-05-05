@@ -13,7 +13,7 @@ Recently, I collaborated with a team to develop a website that simulates the Uni
 
 I also enjoy networking with others to gain new experiences and solve challenges through teamwork and innovation. One of my personal goals is to introduce someone new everyday - I believe that every conversation holds growth and opportunity. I'm always excited to share, connect, and learn from others.
 
-Currently, I am looking for an internship position or a co-op opportunity for Summer and Fall 2025 where I can apply my technical skills in a team-oriented environment as a developer.
+Currently, I am looking for an internship position or a co-op opportunity for Summer or Fall 2025 where I can apply my technical skills in a team-oriented environment as a developer.
 
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/ryan-pham0306)! I'm always open to conversations and opportunities.
 
