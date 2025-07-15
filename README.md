@@ -98,3 +98,9 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 # TO RUN DOCKER
 
 docker run -p 4000:4000 -v "$PWD":/usr/src/app academic-pages
+
+# TO PUSH CHANGES
+
+1. git add .
+2. git commit -m "Your commit message here"
+3. git push origin master
